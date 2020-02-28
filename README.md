@@ -6,7 +6,7 @@ This is a 'Having fun' 🤓 project that uses Dijkstra Algorithm to find the sho
 
 ## Keyboard Shortcuts
 
-| Action   | Keyboard  | Action           |
+| Target   | Keyboard  | Action           |
 |----------|-----------|-------------------|
 | Run Dijkstra   | R   | it will run the algorithm|
 | Change Mode   | M   | it will change the mode to clean (erase walls) or draw|
